@@ -1,4 +1,3 @@
-# Script-adventure
 
 # 🕹️ Script-adventure 🕹️
 
@@ -6,22 +5,25 @@
 
 <div>
     <br>
-    <img src="https://cdn.discordapp.com/attachments/820125695958843432/879796326336978984/unknown.png" target="_blank"><br>
-   <br> Caso tenha se Interesse, basta clicar <a href = "https://adivinhesepuder.netlify.app">⚠️ AQUI ⚠️</a> para experienciar por conta as features desse projeto. 
+    <img src="https://cdn.discordapp.com/attachments/820125695958843432/881959093663842375/unknown.png" target="_blank"><br>
+   <br> Caso tenha se Interesse, basta clicar <a href = "https://scriptadventure.netlify.app/home">⚠️ AQUI ⚠️</a> para experienciar por conta as features desse projeto. 
 </div>
 
 ##
 
 ## 🔎 Finalidade do projeto:
 
-### - 👨‍💻  O site de portfólio tem como finalidade a utilização de randomização em um algoritimo em Javascript durante um dos laboratorios de Desenvolvimento Web da minha Universidade (FEI). Adivinhação - O jogo consiste em tentar acertar o número gerado pelo computador entre 0 a 99 na caixa de texto. O algorimimo deve mostrar ao jogador se o numero palpitado está alto, baixo, correto ou pedir para digitar apenas numeros entre 0 a 99. 
+### - 👨‍💻  O site tem como finalidade a utilização de todos os conhecimentos adquiridos durante o primeiro semestre do curso, utilizando Javascript para a produção dos efeitos da página e do desenvolvimento do jogo em canvas.
+ O site foi criado para um dos laboratórios de Desenvolvimento Web da minha Universidade (FEI). 
+ O projeto consistia em criar uma pagina para divulgar a criação de um jogo, falar sobre o projeto, sobre os desenvolvedores e uma pagina somente para o tutorial + o canvas do jogo.
+ O estilo de arte contém traços retrô, desenvolvido em pixel arts únicas, sendo estilizado com aspectos de jogos de Arcade, com artes em 16 bits, com a intenção de recriar o nostálgico e famoso jogo Breakout. 
  
 ## 
 
 ## 📰 Conteúdo:
 
-### 📱 Site responsivo para todos os tipos de aparelhos
-### 📌 Botões  efetivos e estilo de página moderno
+### 📱 Jogo criado em canvas
+### 📌 Botões  efetivos e estilo de página moderno, com front-end totalmente fora do padrão
 ### 🛎️  Site com design limpo e intuitivo,  totalmente tematizado em pixel art
 
 ##
@@ -39,12 +41,11 @@
 ## 📸 Imagens:
 
 <div> 
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879885803034144808/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879885964661653534/unknown.png" width="420px" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886124661747802/unknown.png" width="420px" target="_blank">
- 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/879886238675501156/unknown.png"  width="420px" target="_blank">
-     <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886391314644992/unknown.png"  width="420px" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/820125695958843432/879886525146492938/unknown.png"  width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/881959093663842375/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/881959432005763172/unknown.png" width="420px" target="_blank">
+  <img src="https://cdn.discordapp.com/attachments/820125695958843432/881959931207635036/unknown.png" width="420px" target="_blank">
+ 	<img src="https://cdn.discordapp.com/attachments/820125695958843432/881960185671864390/unknown.png"  width="420px" target="_blank">
+    
 </div>  
 
  ##
